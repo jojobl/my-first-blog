@@ -25,7 +25,7 @@ SECRET_KEY = 'gitcfa(*u)azd3v6-3e1z(1dizg4oc(kr-_g!3o9a9gjs35^_x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'jojobl.pythonanywhere.com']
 
 
 # Application definition
